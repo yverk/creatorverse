@@ -1,16 +1,23 @@
-# React + Vite
+# WEB103 Prework - *Creatorverse*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: **Yaroslav Verkhovod**
 
-Currently, two official plugins are available:
+**Creatorverse** is a website where users can view, add, edit, and delete their favorite content creators.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### User Stories
 
-## React Compiler
+The following **required** functionality is completed:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- [x] **Logical component structure** in React
+- [x] **At least five** content creators are displayed on the homepage
+- [x] Clicking on a creator takes the user to their **details page**
+- [x] Each creator has a **unique URL**
+- [x] Users can **edit** a creator's information
+- [x] Users can **delete** a creator
+- [x] Users can **add** a new creator
 
-## Expanding the ESLint configuration
+The following **stretch** features are implemented:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [x] Used **PicoCSS** for styling
+- [x] Displayed creators in a **card format**
+- [x] Showed an **image** of each creator on their card
